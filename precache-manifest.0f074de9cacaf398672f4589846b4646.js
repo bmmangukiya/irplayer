@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "553b9b82eb4b2c230f6aa55c1fb0bf86",
+    "revision": "23612a1507fd61547b6f2d7aa218780a",
     "url": "/irplayer/index.html"
   },
   {
-    "revision": "334ecf61410dd68ac57c",
+    "revision": "010f1da65149f878ee38",
     "url": "/irplayer/static/css/main.394d7dcc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/irplayer/static/js/2.fb756883.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "334ecf61410dd68ac57c",
-    "url": "/irplayer/static/js/main.8fa02767.chunk.js"
+    "revision": "010f1da65149f878ee38",
+    "url": "/irplayer/static/js/main.7f9f37ab.chunk.js"
   },
   {
     "revision": "5d22911f3274714fcc98",

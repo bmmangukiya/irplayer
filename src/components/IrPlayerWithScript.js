@@ -54,6 +54,7 @@ const IrPlayerWithScript = () => {
               overflow: "hidden",
               position: "static",
               pointerEvents: "auto",
+              marginLeft: "25px",
             }
           : {
               width: "0%",

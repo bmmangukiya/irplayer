@@ -1,5 +1,6 @@
 {
   "name": "irplayer",
+  "homepage": "https://bmmangukiya.github.io/irplayer/#",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
